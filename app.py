@@ -87,7 +87,7 @@ with open('templates/calculator.html', 'w') as f:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculator with Weird Division</title>
+    <title>The Fastest Calculator Ever. Guaranteed.</title>
     <style>
         body {
             font-family: Arial, sans-serif;
